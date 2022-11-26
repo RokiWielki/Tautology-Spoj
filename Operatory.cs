@@ -12,19 +12,19 @@ namespace TautologySpoj
         {
             Console.WriteLine(" i ");
         }
-        public void D()
+        public static void D()
         {
             Console.WriteLine(" Lub ");
         }
-        public void I()
+        public static void I()
         {
             Console.WriteLine(" Implementacja ");
         }
-        public void E()
+        public static void E()
         {
             Console.WriteLine(" Wtedy i tylko wtedy ");
         }
-        public void N()
+        public static void N()
         {
             Console.WriteLine(" Nie ");
         }
